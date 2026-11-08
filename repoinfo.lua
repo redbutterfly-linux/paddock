@@ -1,0 +1,3 @@
+repoinfo = {
+    name = "paddock"
+}
